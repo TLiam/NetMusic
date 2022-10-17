@@ -1,11 +1,12 @@
-# netmusic
-
+# Netmusic
+## 因为一些小问题，将之前的仓库删除，现在重新上传一次
 ## 数据获取出错解决方法
-下载本地服务器 `NetServer`，将服务器运行起来即可获取数据
+在GitHub中找到 `https://github.com/Binaryify/NeteaseCloudMusicApi.git` 这个仓库
+下载解压后即可使用，将服务器运行起来即可获取数据
 
 启动服务器方法
 
-​  进入 ` NetServer `文件，在终端中使用 `node app.js` 命令启动服务器，最小化终端即可
+进入 `NeteaseCloudMusicApi`文件，在终端中使用 `node app.js` 命令启动服务器，最小化终端即可
 
 ## 项目介绍
 ### 首页
